@@ -48,6 +48,17 @@ $ ubuntu-stash
 > What is your passphrase? (for decryption and encryption)
 ball cat
 
+> Would you like to setup your password manager? (to help you with authentication in the next steps)
+y
+
+> Which password manager?
+> [1] LastPass
+> [2] NordPass
+2
+
+> [PASSWORD MANAGER] Installing...
+> [PASSWORD MANAGER] Installed! Launching it for you to login...
+
 > Would you like to login to GOOGLE DRIVE?
 n
 
@@ -98,12 +109,6 @@ y
 > [THEME] Wallpaper set!
 > [THEME] Terminal configured!
 > [THEME] System Apparence set!
-
-> Would you like to setup your password manager?
-y
-
-> [PASSWORD MANAGER] Installing...
-> [PASSWORD MANAGER] Installed! Launching it for you to login...
 
 > Would you like to install your webapp launcher with SSO / automatic login?
 y
